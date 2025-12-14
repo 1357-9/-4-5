@@ -64,8 +64,9 @@ $$\Psi (Yaw) = \text{atan2}(2(q_0 q_3 + q_1 q_2), 1 - 2(q_2^2 + q_3^2)) \cdot \f
 * VPython використовує апаратне прискорення браузера, що забезпечує високу частоту оновлення (100 FPS), роблячи візуалізацію плавною та точною.
 
 ## 6. Результат Роботи 
-
+## Відео:
 (https://github.com/user-attachments/assets/386041c0-4ce7-415a-9d09-735d5e394a09)
+## Фото:
 ![20251214_183910](https://github.com/user-attachments/assets/55de50ae-35d5-48c9-bb4a-80bea30ddf26)
 ![20251214_183901](https://github.com/user-attachments/assets/dac97f79-984c-4638-bf09-d52fb60c2ba2)
 ![20251214_184546](https://github.com/user-attachments/assets/33dab11c-f387-4b54-8262-7294eaa72b1a)
